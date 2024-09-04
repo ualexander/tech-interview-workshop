@@ -4,7 +4,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             // if encounter 0
             if (nums[i] == 0 && i+1 < nums.length) {
-                // create innaer loop
+                // create inner loop
                 int j = i;
                 // find next non-zero slot
                 while (nums[j] == 0 && j < nums.length - 1) {
