@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Alex Urbina (ualexander)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID**: Lucas Umberger: lucas22
 
-* **Link to selected coding challenge:**
-
-* **Summary of partner's interview feedback:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75
+* 
+* **Summary of partner's interview feedback:** Interviewee clearly explained his thought process, while taking a while to complete the problem, he eventually got it while talking out the challenges he was facing. It is hard to say if I would hire him because it was only a LeetCode easy quesiton.
