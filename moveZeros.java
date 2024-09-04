@@ -3,7 +3,7 @@ class Solution {
         // loop through array
         for (int i = 0; i < nums.length; i++) {
             // if encounter 0
-            if (nums[i] == 0 && i+1 < nums.length) {
+            if (nums[i] == 0) {
                 // create inner loop
                 int j = i;
                 // find next non-zero slot
